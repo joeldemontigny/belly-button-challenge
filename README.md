@@ -39,7 +39,7 @@ Display each key-value pair from the metadata JSON object somewhere on the page.
 ![image](https://github.com/joeldemontigny/belly-button-challenge/assets/130711180/7972fc27-b2ba-409e-8945-1a82f8588938)
 
 ## Requirements
-Bar Chart (30 points)
+## Bar Chart (30 points)
 Chart initializes without error (10 points)
 
 Chart updates when a new sample is selected (5 points)
@@ -50,7 +50,7 @@ Chart uses otu_ids as the labels (5 points)
 
 Chart uses otu_labels as the tooltip (5 points)
 
-Bubble Charts (40 points)
+## Bubble Charts (40 points)
 Chart initializes without error (10 points)
 
 Chart updates when a new sample is selected (5 points)
@@ -65,7 +65,7 @@ Chart uses sample_values for the marker size (5 points)
 
 Chart uses `otu_labels for text values (5 points)
 
-Metadata and Deployment (30 points)
+## Metadata and Deployment (30 points)
 Metadata initializes without error (10 points)
 
 Metadata updates when a new sample is selected (10 points)
