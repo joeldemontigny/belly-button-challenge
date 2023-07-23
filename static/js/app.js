@@ -82,7 +82,7 @@ function updateBubbleChart(id) {
       marker: {
         size: sample_values,
         color: otu_ids,
-        colourscale: "Jet"
+        colourscale: "Portland"
       }
     };
   
