@@ -71,3 +71,4 @@ Metadata initializes without error (10 points)
 Metadata updates when a new sample is selected (10 points)
 
 App Successfully Deployed to Github Pages (10 points)
+**N.B. at the time of submission, we had not yet covered how to create the Github Page.  This was only covered during the class of the same due date of July 24.  
